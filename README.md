@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in general
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything that has to do with python - whenever I am free
-- 📫 How to reach me: my email is mitsostheprogrammer@outlook.com
+- 📫 How to reach me: my email is dimitris_the_programmer@yahoo.com
 
 <!---
 MimisLovesToProgram/MimisLovesToProgram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
